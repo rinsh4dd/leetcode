@@ -1,0 +1,15 @@
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.AssemblyInfoInputs.cache
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.AssemblyInfo.cs
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.csproj.CoreCompileInputs.cache
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.sourcelink.json
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\bin\Debug\net9.0\LeetCodeC#.exe
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\bin\Debug\net9.0\LeetCodeC#.deps.json
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\bin\Debug\net9.0\LeetCodeC#.runtimeconfig.json
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\bin\Debug\net9.0\LeetCodeC#.dll
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\bin\Debug\net9.0\LeetCodeC#.pdb
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.dll
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\refint\LeetCodeC#.dll
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.pdb
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\LeetCodeC#.genruntimeconfig.cache
+C:\Users\rinsh\OneDrive\Desktop\Leetcode\LeetCodeC#\obj\Debug\net9.0\ref\LeetCodeC#.dll
