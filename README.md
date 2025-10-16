@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rinsh4dd/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rinsh4dd/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rinsh4dd/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rinsh4dd/leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rinsh4dd/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rinsh4dd/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rinsh4dd/leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
