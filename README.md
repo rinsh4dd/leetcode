@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rinsh4dd/leetcode/tree/master/0035-search-insert-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rinsh4dd/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/rinsh4dd/leetcode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/rinsh4dd/leetcode/tree/master/3194-find-words-containing-character) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/rinsh4dd/leetcode/tree/master/2058-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rinsh4dd/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
