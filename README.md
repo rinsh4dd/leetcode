@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rinsh4dd/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2058-concatenation-of-array](https://github.com/rinsh4dd/leetcode/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/rinsh4dd/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rinsh4dd/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3194-find-words-containing-character](https://github.com/rinsh4dd/leetcode/tree/master/3194-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
