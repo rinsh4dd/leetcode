@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rinsh4dd/leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/rinsh4dd/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rinsh4dd/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rinsh4dd/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rinsh4dd/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
@@ -50,10 +51,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rinsh4dd/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rinsh4dd/leetcode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/rinsh4dd/leetcode/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rinsh4dd/leetcode/tree/master/0035-search-insert-position) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rinsh4dd/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
