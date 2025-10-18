@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rinsh4dd/leetcode/tree/master/0035-search-insert-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rinsh4dd/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1603-running-sum-of-1d-array](https://github.com/rinsh4dd/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/rinsh4dd/leetcode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/rinsh4dd/leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rinsh4dd/leetcode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/rinsh4dd/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
