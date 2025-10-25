@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rinsh4dd/leetcode/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/rinsh4dd/leetcode/tree/master/0283-move-zeroes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rinsh4dd/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1603-running-sum-of-1d-array](https://github.com/rinsh4dd/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/rinsh4dd/leetcode/tree/master/2058-concatenation-of-array) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/rinsh4dd/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/rinsh4dd/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
